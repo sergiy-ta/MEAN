@@ -1,0 +1,19 @@
+form.example-form {
+  display: block;
+  max-width: 600px;
+  margin: 20px auto;
+}
+
+mat-form-field.example-full-width {
+  width: 90%;
+  margin: 10px;
+}
+
+mat-form-field.example-full-width input, mat-form-field.example-full-width textarea {
+  width: 100%;
+}
+
+mat-form-field.example-full-width button {
+  display: table-cell;
+  margin: 10px;
+}
